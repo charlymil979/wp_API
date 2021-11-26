@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="30mm"
+   height="30mm"
+   viewBox="1 1 120 120"
+   version="1.1"
+   id="svg5039"
+   sodipodi:docname="loader.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview12"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.4694444"
+     inkscape:cx="76.737908"
+     inkscape:cy="77.547806"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
+     inkscape:window-x="-8"
+     inkscape:window-y="760"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5039" />
+  <defs
+     id="defs2" />
+  <g
+     id="layer3"
+     style="display:inline"
+     transform="matrix(-1,0,0,1,122,4.1643779e-6)">
+    <circle
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#333390;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.05833px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="path1077"
+       cx="60.999996"
+       cy="60.999996"
+       r="59.999996" />
+  </g>
+  <g
+     id="layer4"
+     transform="matrix(-1,0,0,1,122,4.1643779e-6)">
+    <path
+       style="color:#000000;fill:#ffffff;fill-rule:evenodd;stroke-width:1.05833px;-inkscape-stroke:none"
+       d="m 120.99999,60.999996 c 0,33.137081 -26.862913,59.999994 -59.999994,59.999994 C 27.862914,120.99999 1.0000011,94.137078 1,60.999996 c 60,4e-6 60,4e-6 119.99999,0 z"
+       id="circle1181" />
+    <circle
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.05833px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="path1418"
+       cx="90.999992"
+       cy="61"
+       r="29.999998" />
+    <circle
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#333390;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.05833px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="path1420"
+       cx="30.999998"
+       cy="61"
+       r="29.999998" />
+    <circle
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.05833px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="path4094"
+       cx="30.999998"
+       cy="61"
+       r="10" />
+    <circle
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#333390;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.05833px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="circle4096"
+       cx="91"
+       cy="61"
+       r="10" />
+  </g>
+  <animateTransform
+     attributeName="transform"
+     type="rotate"
+     from="0 0 0"
+     to="360 0 0"
+     dur="3.5s"
+     repeatCount="indefinite" />
+</svg>
